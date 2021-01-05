@@ -4,16 +4,16 @@
         <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" >
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" />
-        <link href="/assets/css/toast.jquery.css" rel="stylesheet">
-        <link href="/assets/css/style.css?v=1.0.8" rel="stylesheet">
+        <link href="ibook/assets/css/toast.jquery.css" rel="stylesheet">
+        <link href="ibook/assets/css/style.css?v=1.0.8" rel="stylesheet">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js"></script>
         <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-        <script src="/assets/js/toast.jquery.js"></script>
-        <script src="/assets/js/mousewheel.jquery.js"></script>
-        <script src="/assets/js/aes-js.js"></script>
-        <script src="/assets/js/encryption.index.js?v=1.0"></script>
-        <script src="/assets/js/index.js?v=1.1"></script>
+        <script src="ibook/assets/js/toast.jquery.js"></script>
+        <script src="ibook/assets/js/mousewheel.jquery.js"></script>
+        <script src="ibook/assets/js/aes-js.js"></script>
+        <script src="ibook/assets/js/encryption.index.js?v=1.0"></script>
+        <script src="ibook/assets/js/index.js?v=1.1"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <meta name="description" content="Simplest Online Notepad editor with security"/>
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
