@@ -14,7 +14,7 @@ class CookieManagment {
      * Path in which the cookie will be available
      * @var string
      */
-    const PATH		= 'ibook/';
+    const PATH		= '/';
 
     /**
      * Domain that the cookie is available
